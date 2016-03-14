@@ -32,10 +32,10 @@ li a:hover {
     }
 .jumbotron .container{
 	background:url("https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/1934351_457140041143616_1856152959223450873_n.jpg?oh=858592eecb9cf33992aafa43631719c2&oe=574BF19B");
-	background-size: 15%;
+	background-size: 200px;
 	background-repeat: no-repeat;
 	padding-left: 20%;
-	margin-bottom: 10px
+	margin-bottom: 10px;
 }
 
 h2 {
