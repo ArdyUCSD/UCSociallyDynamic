@@ -55,6 +55,7 @@ h3{
 	font-size: 150%;
 	display: inline-block;
 	vertical-align: middle;
+	font-family: "verdana";
 }
 a {
 	text-decoration: none;
@@ -62,7 +63,27 @@ a {
 img{
 	vertical-align: middle;
 }
-
+h4{
+	text-align: center;
+	font-family: "verdana";
+}
+h5{
+	text-align: left;
+	font-family: "verdana";
+	padding-left: 10px;
+	font-size: 100%;
+	position: relative;
+	line-height: 120%;
+}
+#photo{
+	float:left;
+}
+#photo2{
+	float:right;
+	height: 500px;
+	width: 500px;
+	padding:10px;
+}
 
 
 
