@@ -36,6 +36,7 @@ li a:hover {
 	background-repeat: no-repeat;
 	padding-left: 20%;
 	margin-bottom: 10px;
+	overflow: hidden;
 }
 
 h2 {
