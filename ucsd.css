@@ -34,7 +34,8 @@ li a:hover {
 	background:url("https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/1934351_457140041143616_1856152959223450873_n.jpg?oh=858592eecb9cf33992aafa43631719c2&oe=574BF19B");
 	background-size: 15%;
 	background-repeat: no-repeat;
-	padding-left: 20%
+	padding-left: 20%;
+	padding-top:-5%;
 }
 
 h2 {
