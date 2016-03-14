@@ -1,0 +1,68 @@
+.menu {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6666ff;
+}
+
+li {
+    float: left;
+    margin-left: 7.5%;
+}
+
+li a {
+    display: block;
+    color: white;
+    font-family:"verdana";
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000066;
+}
+.jumbotron{
+	background: white;
+	height: 15%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 2px;
+    }
+.jumbotron .container{
+	background:url("https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/1934351_457140041143616_1856152959223450873_n.jpg?oh=858592eecb9cf33992aafa43631719c2&oe=574BF19B");
+	background-size: 15%;
+	background-repeat: no-repeat;
+	padding-left: 20%
+}
+
+h2 {
+	text-align: center;
+}
+.main{
+	background: white;
+	font-family: "verdana";
+}
+#social{
+	display: inline-block;
+	padding-left: 30%;
+}
+h3{
+	padding-left:0%;
+	text-align: left;
+	font-size: 150%;
+	display: inline-block;
+	vertical-align: middle;
+}
+a {
+	text-decoration: none;
+}
+img{
+	vertical-align: middle;
+}
+
+
+
+
+
